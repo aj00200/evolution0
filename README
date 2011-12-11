@@ -1,0 +1,9 @@
+Evolution0 is a project to create evolving computer software which self-adapts
+to reach a pre-defined goal. Such goals include the ability to break encryption
+or find a function which matches a data-set.
+
+Objectives:
+ * Have software generate a linear algorithm
+ * Have software crack a translation cipher
+ * Have software crack a substituation cipher
+
